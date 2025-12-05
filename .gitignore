@@ -1,0 +1,7 @@
+work/
+*.ocd
+*.vvp
+*.fst
+*.log
+*.o
+.vscode
