@@ -5,3 +5,4 @@ work/
 *.log
 *.o
 .vscode
+.DS_Store
